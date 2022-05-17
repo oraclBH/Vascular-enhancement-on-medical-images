@@ -1,4 +1,4 @@
-function outIM = bloodEnhance(inIM)
+function outIM = VascularEnhance(inIM)
 
 inIM = double(inIM);
 
